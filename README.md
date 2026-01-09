@@ -21,10 +21,10 @@
 ### 📁 Highlighted Projects
 
 | Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[Tumor Growth Research](ongoing)** | Developing a neural network model to analyze and predict temporal tumor progression patterns. | Python, Matlab |
-| **[Water Temperature Regulator](link)** | Designed a simple control system for real-time temperature stabilization. | C++, Arduino, Sensors |
-| **[Online Jewelry Store](link)** | A full-featured e-commerce platform with database backend and responsive front-end. | SQL, HTML/CSS, JavaScript |
-| **[2D Cat Game](link)** | An interactive desktop game showcasing object-oriented programming principles and game logic. | Java, Swing |
+|--------|-------------|------------|
+| **[Tumor Growth Research](https://github.com/agnestanko/tumor-growth-research.git)** _(ongoing)_ | Developing a neural network model to analyze and predict temporal tumor progression patterns. | Python, MATLAB |
+| **[Water Temperature Regulator](https://github.com/agnestanko/water-temperature-regulator.git)** | Designed a simple control system for real-time temperature stabilization. | C++, Arduino, Sensors |
+| **[Online Jewelry Store](https://github.com/agnestanko/jewelry_store.git)** | A full-featured e-commerce platform with database backend and responsive front-end. | PHP, HTML/CSS, JavaScript |
+| **[2D Cat Game](https://github.com/agnestanko/2D-Cat-Game.git)** | An interactive desktop game showcasing object-oriented programming principles and game logic. | Java, Swing |
 
 ---
