@@ -12,7 +12,7 @@
 ---
 
 ### 🛠️ Technical Skills
-**Programming & Markup:** Java, C/C++, Python, SQL, HTML/CSS, JavaScript  
+**Programming & Markup:** Java, C/C++ and PHP, SQL, HTML/CSS, JavaScript  
 **Frameworks & Tools:** TensorFlow/PyTorch, Linux, Arduino, MySQL, MATLAB/Simulink  
 **Engineering Concepts:** Object-Oriented Design, Control Systems (PID), Digital Electronics, System Modeling, Database Normalization
 
