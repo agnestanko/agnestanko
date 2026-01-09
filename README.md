@@ -7,7 +7,7 @@
 - 📚 **Current Focus:** Deepening my expertise in control systems, embedded programming, and full-stack development.
 - 👯 **Looking for:** A challenging summer internship to apply my skills in a professional environment and contribute to meaningful projects.
 - 💬 **Ask me about:** Java OOP, microcontroller systems, PID control, database design, or building full-stack web applications.
-- 📫 **How to reach me:** agnes.tanko@yahoo.com | [Your LinkedIn Profile URL]
+- 📫 **How to reach me:** agnes.tanko@yahoo.com | https://www.linkedin.com/in/agnes-maria-tanko-1987b9392/
 
 ---
 
