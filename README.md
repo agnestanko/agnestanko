@@ -29,6 +29,16 @@ I am a 3rd year student in Automation and Computer Science at the Technical Univ
 | **[Water Temperature Regulator](https://github.com/agnestanko/water-temperature-regulator.git)** | Designed a simple control system for real-time temperature stabilization. | C++, Arduino, Sensors |
 | **[Online Jewelry Store](https://github.com/agnestanko/jewelry_store.git)** | A full-featured e-commerce platform with database backend and responsive front-end. | PHP, HTML/CSS, JavaScript |
 | **[2D Cat Game](https://github.com/agnestanko/2D-Cat-Game.git)** | An interactive desktop game showcasing object-oriented programming principles and game logic. | Java, Swing |
-| **[Web App Project](https://github.com/csabatakacs/Travel-Manager.git)** _(ongoing, team project)_ | Full-stack travel planning application with itinerary management, trip organization features, and interactive UI. | C#, React, CSS |
-| **[Online Library Platform](https://github.com/agnestanko/library-project.git)** _(ongoing, team project)_ | Full-stack application featuring authentication, CRUD operations, and real-time updates using WebSockets. | React, Node.js, Express, MongoDB |
+
+
+---
+
+## 🚀 Current Projects
+
+| Project | Description | Tech Stack | Role |
+|--------|------------|-----------|------|
+| **[Web App Project – Travel Manager](https://github.com/csabatakacs/Travel-Manager.git)** _(ongoing, team project)_ | Full-stack travel application for exploring attractions, managing trips, and booking tickets, with a modern and interactive UI. | C#, React, CSS | Frontend Developer |
+| **[Online Library Platform](https://github.com/agnestanko/library-project.git)** _(ongoing, team project)_ | Full-stack platform with authentication, CRUD operations, and real-time updates using WebSockets. | React, Node.js, Express, MongoDB | Backend Developer |
+
+> Both projects are developed in team environments, focusing on collaboration, modular architecture, and scalable solutions.
 ---
