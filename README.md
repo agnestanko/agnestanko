@@ -15,8 +15,8 @@ I am a 3rd year student in Automation and Computer Science at the Technical Univ
 ---
 
 ### 🛠️ Technical Skills
-**Programming & Markup:** Java, C/C++, C#, and React, HTML/CSS, JavaScript, PHP, SQL
-**Frameworks & Tools:** TensorFlow/PyTorch, Linux, Arduino, MATLAB/Simulink  
+**Programming & Markup:** Java, C/C++, C#, HTML/CSS, JavaScript, PHP, SQL  
+**Frameworks & Tools:** React, TensorFlow/PyTorch, Linux, Arduino, MATLAB/Simulink  
 **Engineering Concepts:** Object-Oriented Design, Control Systems (PID), PLC programming, Digital Electronics, System Modeling, Database Normalization
 
 ---
@@ -37,7 +37,7 @@ I am a 3rd year student in Automation and Computer Science at the Technical Univ
 
 | Project | Description | Tech Stack | Role |
 |--------|------------|-----------|------|
-| **[Web App Project – Travel Manager](https://github.com/csabatakacs/Travel-Manager.git)** _(ongoing, team project)_ | Full-stack travel application for exploring attractions, managing trips, and booking tickets, with a modern and interactive UI. | C#, React, CSS | Frontend Developer |
+| **[Web App Project – Travel Manager](https://github.com/agnestanko/Travel-Manager.git)** _(ongoing, team project)_ | Full-stack travel application for exploring attractions, managing trips, and booking tickets, with a modern and interactive UI. Original repository: [csabatakacs/Travel-Manager](https://github.com/csabatakacs/Travel-Manager.git). | C#, React, CSS | Frontend Developer |
 | **[Online Library Platform](https://github.com/agnestanko/library-project.git)** _(ongoing, team project)_ | Full-stack platform with authentication, CRUD operations, and real-time updates using WebSockets. | React, Node.js, Express, MongoDB | Backend Developer |
 
 > Both projects are developed in team environments, focusing on collaboration, modular architecture, and scalable solutions.
