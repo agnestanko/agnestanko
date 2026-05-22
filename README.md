@@ -9,7 +9,7 @@ I am a 3rd year student in Automation and Computer Science at the Technical Univ
 - 🔭 **Currently working on:** Research in tumor growth modeling using neural networks.
 - 📚 **Current Focus:** Deepening my expertise in control systems, embedded programming, and full-stack development.
 - 👯 **Looking for:** A challenging summer internship to apply my skills in a professional environment and contribute to meaningful projects.
-- 💬 **Ask me about:** Java, OOP, microcontroller systems, PID control, database design, or building full-stack web applications.
+- 💬 **Ask me about:** Java, OOP, microcontroller systems, control methods, database design, or building full-stack web applications.
 - 📫 **How to reach me:** agnes.tanko@yahoo.com | https://www.linkedin.com/in/agnes-maria-tanko-1987b9392/
 
 ---
@@ -17,7 +17,7 @@ I am a 3rd year student in Automation and Computer Science at the Technical Univ
 ### 🛠️ Technical Skills
 **Programming & Markup:** Java, C/C++, C#, HTML/CSS, JavaScript, PHP, SQL  
 **Frameworks & Tools:** React, TensorFlow/PyTorch, Linux, Arduino, MATLAB/Simulink  
-**Engineering Concepts:** Object-Oriented Design, Control Systems (PID), PLC programming, Digital Electronics, System Modeling, Database Normalization
+**Engineering Concepts:** Object-Oriented Design, Control Systems, PLC programming, Digital Electronics, System Modeling, Database Normalization
 
 ---
 
