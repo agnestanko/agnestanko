@@ -15,9 +15,9 @@ I am a 3rd year student in Automation and Computer Science at the Technical Univ
 ---
 
 ### 🛠️ Technical Skills
-**Programming & Markup:** Java, C/C++, C#, HTML/CSS, JavaScript, PHP, SQL  
-**Frameworks & Tools:** React, TensorFlow/PyTorch, Linux, Arduino, MATLAB/Simulink  
-**Engineering Concepts:** Object-Oriented Design, Control Systems, PLC programming, Digital Electronics, System Modeling, Database Normalization
+- **Programming & Markup:** Java, C/C++, C#, HTML/CSS, JavaScript, PHP, SQL  
+- **Frameworks & Tools:** React, TensorFlow/PyTorch, Linux, Arduino, MATLAB/Simulink  
+- **Engineering Concepts:** Object-Oriented Design, Control Systems, PLC programming, Digital Electronics, System Modeling, Database Normalization
 ---
 ## 🚀 Current Projects
 
