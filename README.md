@@ -18,6 +18,16 @@ I am a 3rd year student in Automation and Computer Science at the Technical Univ
 **Programming & Markup:** Java, C/C++, C#, HTML/CSS, JavaScript, PHP, SQL  
 **Frameworks & Tools:** React, TensorFlow/PyTorch, Linux, Arduino, MATLAB/Simulink  
 **Engineering Concepts:** Object-Oriented Design, Control Systems, PLC programming, Digital Electronics, System Modeling, Database Normalization
+---
+## 🚀 Current Projects
+
+| Project | Description | Tech Stack | Role |
+|--------|------------|-----------|------|
+| **Web App Project – Travel Manager** <br> [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/agnestanko/Travel-Manager.git) <br> _(ongoing, team project)_ | Full-stack travel application for exploring attractions, managing trips, and booking tickets, with a modern and interactive UI. Original repository: [csabatakacs/Travel-Manager](https://github.com/csabatakacs/Travel-Manager.git). | C#, React, CSS | Frontend Developer |
+| **AplicatieCRUD** <br> [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/agnestanko/AplicatieCRUD) <br> _(ongoing / in progress)_ | Angular 14 CRUD application with .NET 6 Web API and Entity Framework Core, focused on database operations, clean API structure, and full-stack development practice. | Angular, TypeScript, C#, .NET 6, Entity Framework Core | Full-Stack Developer |
+| **Online Library Platform** <br> [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/agnestanko/library-project.git) <br> _(ongoing, team project)_ | Full-stack platform with authentication, CRUD operations, and real-time updates using WebSockets. | React, Node.js, Express, MongoDB | Backend Developer |
+
+> These projects are developed with a focus on collaboration, modular architecture, scalable solutions, and practical full-stack development experience.
 
 ---
 
@@ -26,19 +36,9 @@ I am a 3rd year student in Automation and Computer Science at the Technical Univ
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | **[Tumor Growth Research](https://github.com/agnestanko/tumor-growth-research.git)** _(ongoing)_ | Developing a neural network model to analyze and predict temporal tumor progression patterns. | Python, MATLAB |
+| **[Java Train Ticketing Application](https://github.com/agnestanko/java-train-ticketing-application)** | Repository Java realizat pentru test tehnic, structurat în două părți: <br><br> **Part 1 – Train Ticketing Application:** aplicație Java pentru căutarea rutelor de tren, rezervarea biletelor, gestionarea trenurilor și notificarea clienților despre rezervări sau întârzieri. <br><br> **Part 2 – [Industrial Sensor Monitoring and Alarm System](https://github.com/agnestanko/java-train-ticketing-application#problem-2-industrial-sensor-monitoring-and-alarm-system):** proiect Java mai scurt pentru monitorizarea senzorilor industriali, detectarea alarmelor și aplicarea principiilor OOP. | Java, OOP |
 | **[Water Temperature Regulator](https://github.com/agnestanko/water-temperature-regulator.git)** | Designed a simple control system for real-time temperature stabilization. | C++, Arduino, Sensors |
 | **[Online Jewelry Store](https://github.com/agnestanko/jewelry_store.git)** | A full-featured e-commerce platform with database backend and responsive front-end. | PHP, HTML/CSS, JavaScript |
-| **[2D Cat Game](https://github.com/agnestanko/2D-Cat-Game.git)** | An interactive desktop game showcasing object-oriented programming principles and game logic. | Java, Swing |
+| **[2D Cat Game in Java](https://github.com/agnestanko/2D-Cat-Game.git)** | An interactive desktop game showcasing object-oriented programming principles and game logic. | Java, Swing |
 
-
----
-
-## 🚀 Current Projects
-
-| Project | Description | Tech Stack | Role |
-|--------|------------|-----------|------|
-| **[Web App Project – Travel Manager](https://github.com/agnestanko/Travel-Manager.git)** _(ongoing, team project)_ | Full-stack travel application for exploring attractions, managing trips, and booking tickets, with a modern and interactive UI. Original repository: [csabatakacs/Travel-Manager](https://github.com/csabatakacs/Travel-Manager.git). | C#, React, CSS | Frontend Developer |
-| **[Online Library Platform](https://github.com/agnestanko/library-project.git)** _(ongoing, team project)_ | Full-stack platform with authentication, CRUD operations, and real-time updates using WebSockets. | React, Node.js, Express, MongoDB | Backend Developer |
-
-> Both projects are developed in team environments, focusing on collaboration, modular architecture, and scalable solutions.
 ---
